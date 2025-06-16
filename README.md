@@ -71,14 +71,5 @@ Actualmente estoy desarrollando un proyecto de tienda online como TFG, aplicando
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github.com/azamudio1/azamudio1/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
 🕘 *Última actualización: Junio 2025*
 
-> Créditos de base: [zeeid](https://github.com/zeeid) — Personalizado por Adrián Zamudio
